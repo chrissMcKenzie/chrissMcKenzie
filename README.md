@@ -1,5 +1,5 @@
-<!-- Level 2 & 3: Simple bio and stats -->
-## &lt;Hello&gt; chrissMcKenzie - Développeur Web [Junior] &lt;/World&gt;
+<!-- Level 3: complete bio and stats -->
+## &lt;Hello&gt; chrissMcKenzie - Développeur Web - Front-End [Junior] &lt;/World&gt;
 <i>Développeur Web - Front-End/Full Stack basé en France, Je me forme pour devenir Programmeur-Développeur Web sur [France IOI](https://www.france-ioi.org/algo/rankingMain.php), [431ème](https://www.france-ioi.org/user/perso.php?sLogin=chrissmckenzie).</i></br>
 <i>Front-End/Full-Stack Web Developer based in France, I am training to become a Web Developer-Programmer on [France IOI](https://www.france-ioi.org/algo/rankingMain.php), [431th](https://www.france-ioi.org/user/perso.php?sLogin=chrissmckenzie).</i></br>
 <hr/>
