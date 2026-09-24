@@ -2,7 +2,7 @@
 ## &lt;Hello&gt; chrissMcKenzie - Développeur Web - Front-End [Junior] &lt;/World&gt;
 <i>Développeur Web - Front-End/Full Stack basé en France, Je me forme pour devenir Programmeur-Développeur Web sur [France IOI](https://www.france-ioi.org/algo/rankingMain.php), [431ème](https://www.france-ioi.org/user/perso.php?sLogin=chrissmckenzie).</i></br>
 <i>Front-End/Full-Stack Web Developer based in France, I am training to become a Web Developer-Programmer on [France IOI](https://www.france-ioi.org/algo/rankingMain.php), [431th](https://www.france-ioi.org/user/perso.php?sLogin=chrissmckenzie).</i></br>
-### Principal Languages actually programming
+### &lt;Languages&gt; Actually programming &lt;/Languages&gt;
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <!-- <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> -->
@@ -39,7 +39,7 @@ TypeScript FullStack - ![TypeScript](https://img.shields.io/badge/typescript-%23
 Cloud Application Platform - ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white), ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) </br>
 Terminal & Automation - ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 &lt;Stats&gt; GitHub &lt;/Stats&gt;
 <div align="center">
   <picture>
     <source
@@ -71,11 +71,11 @@ Terminal & Automation - ![Bash Script](https://img.shields.io/badge/bash_script-
 <!-- [![chrissMcKenzie's GitHub stats](https://github-stats-extended.vercel.app/api?username=chrissMcKenzie&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended) -->
 <!-- [![chrissMcKenzie's GitHub stats](https://github-stats-extended.vercel.app/api?username=chrissMcKenzie&theme=radical)](https://github.com/stats-organization/github-stats-extended) -->
 
-## 🌐 Socials:
+## 🌐 &lt;Socials&gt; &lt;/Socials&gt;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chrissmckenziecmk/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@chrissmckenzie) 
 
 
-# 💻 Featured YouTube Videos
+## 💻 &lt;Videos&gt; YouTube &lt;/Videos&gt;
 [![Opening 1 Full - Développeur Web - Front-End [Junior] Prod. by chriss Fufti](https://ytcards.demolab.com/?id=vtEfaB9UQoE&title=Opening+1+Full+-+Développeur+Web+-+Front-End+[Junior]+Prod.+by+chriss+Fufti&lang=en&timestamp=1581548401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=3&duration=64 "Opening 1 Full - Développeur Web - Front-End [Junior] Prod. by chriss Fufti")](https://www.youtube.com/shorts/aqS3vQIrhHI)
 [![chrissMcKenzie - #1 UI Design Project At Matrice](https://ytcards.demolab.com/?id=aqS3vQIrhHI&title=chrissMcKenzie+-+%231+UI+Design+Project+At+Matrice&lang=en&timestamp=1580511601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=3&duration=18 "chrissMcKenzie - #1 UI Design Project At Matrice")](https://www.youtube.com/watch?v=vtEfaB9UQoE)
 
